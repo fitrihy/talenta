@@ -1,0 +1,26 @@
+/node_modules
+/public/hot
+/public/storage
+/public/.htaccess
+/storage/*.key
+/vendor
+.idea
+/.vscode
+.env.backup
+.editorconfig
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+composer.lock
+composer.json
+/public/ZendServer
+/temp
+.env
+catetan sdm
+public/uploads/cv
+public/uploads/suratkeputusanfile
+public/uploads/suratkeputusanfileanak
+public/uploads/user_guides
+public/uploads/talenta
